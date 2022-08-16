@@ -4,8 +4,15 @@
 
 By Anissa Prameswari
 ---
+
 ### Background
-This project aim is to generate a classification for the customer from an aviation company in China as the industry experience a rapid development and growth in number of customers as they want to attract new customer and keep the loyal customer. With classification the company can make more personalized services for different class of customer with their marketing resources.
+This project aim is to generate a classification for the customer from an aviation company in China as they want to attract new customer and keep the loyal customer since the industry experiencing a rapid development and also growth in number of customers. The result will help them in offering personalized services for different class of customer with their marketing resources.
 
-This resulted in a need of an objective value to evaluate their customer as the membership level system is difficult to asses for customer relationship management, which is by stipulating a strategic metrics for the segmentation. The metrics being used is known as RFM and had been widely used for customer segmentation problem with appropriate modification for the industry.
+The need of an objective value using data is to evaluate their customer as the membership level system is difficult to asses for customer relationship management, which is by stipulating a strategic metrics for the segmentation. The metrics being used is known as LRFMC which is a modified RFM, that had been widely used for customer segmentation problem, specifically tailored for the industry.
 
+### Data
+The dataset being used in this project is Airline Clustering data from Kaagle which have 62988 customer data and 23 features.
+
+Link : https://www.kaggle.com/code/felixign/airline-clustering/data
+
+### Method
