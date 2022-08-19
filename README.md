@@ -23,11 +23,11 @@ Link : https://www.kaggle.com/code/felixign/airline-clustering/data
 
 We are using K-means Clustering for our Customer Segmentation:
 
-Customer Value              | Cluster |
-----------------------------|---------|
-High value, Loyal Customer  |    2    |
-High value, New Customer    |    0    |
-Low value, Loyal Customer   |    1    |
-Low value, Seasonal Customer|    3    |
+Customer Value              | Cluster | Number of Customer |
+----------------------------|---------|--------------------|
+High value, Loyal Customer  |    2    |       4117         |
+High value, New Customer    |    0    |       16225        |
+Low value, Loyal Customer   |    1    |       11258        |
+Low value, Seasonal Customer|    3    |       9508         |
 
 ![image](https://user-images.githubusercontent.com/96058900/184877964-7f0ef196-e933-4aa3-89bf-59bc3bd8e6a6.png)
