@@ -15,7 +15,7 @@ The need of an objective value using data is to evaluate their customer as the m
 
 ### Data
 
-The dataset being used in this project is Airline Clustering data from Kaagle which have 62988 customer data and 23 features.
+The dataset being used in this project is Airline Clustering data from Kaggle which have 62988 customer data and 23 features.
 
 Link : https://www.kaggle.com/code/felixign/airline-clustering/data
 
